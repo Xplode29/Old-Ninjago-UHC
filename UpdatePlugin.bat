@@ -1,0 +1,1 @@
+copy target\UHCTemplate-1.0-SNAPSHOT.jar ..\Server\plugins\PluginTest.jar

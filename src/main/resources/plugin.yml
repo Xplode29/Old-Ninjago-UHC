@@ -1,0 +1,12 @@
+name: UHCTemplate
+version: '${project.version}'
+main: me.butteronmc.uhctemplate.Main
+commands:
+  host:
+    description: Host commands
+    usage: /host [set/start/stop] [player]
+    aliases:
+      - h
+  ni:
+    description: Gamemode related commands
+    usage: /ni <command>
